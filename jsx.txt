@@ -1,0 +1,24 @@
+what do you mean jsx?
+
+jsx is an HTML which full filles xml rule
+
+the rule of xml is
+
+1, all react element is wrap in one root react element
+2, xml have not predefined element or tag
+3, the name of the element in xml is case sensetive
+4, the name in xml have not space
+5, the element of xml must be nested properly
+
+
+there are two type of component these are 
+
+1, class based component 
+
+2, functional component
+
+
+
+
+
+
