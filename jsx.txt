@@ -18,7 +18,21 @@ there are two type of component these are
 2, functional component
 
 
+Hook is function which used to manage state
+
+1, we use hook on only functional component
+2, to use react hook first we must import at the top of the function
+3, call the hook only befor return statment
 
 
 
+types of hook
 
+1, useState(0)
+2, useEffect(callbackfunction, [a])
+3, useContext() used to pass the data in to the children component with out prop driling
+4, useNvigate
+5, useParms
+
+
+consol.log("hello")
